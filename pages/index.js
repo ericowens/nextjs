@@ -4,7 +4,7 @@ import styles from '../styles/Home.module.css'
 export default function Home() {
   return (
     <div className={styles.container}>
-      <p>Here</p>
+      <p>Here Now</p>
       <Head>
         <title>Create Next App Test Here</title>
         <link rel="icon" href="/favicon.ico" />
